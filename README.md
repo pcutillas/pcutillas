@@ -1,7 +1,9 @@
+<img align="left" src="https://github.com/Frenchman98/Frenchman98/blob/main/Resources/githubbanner.png" width="500" height="200"/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Frenchman98&count_private=true&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=30,330000,4d0000,330000&hide_title=true&include_all_commits=true"/>
 
-### Hey! I'm Philippe
+
+### Hey!
 
 I'm a master's student at USC studying Computer Science.
 
