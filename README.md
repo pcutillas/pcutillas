@@ -1,8 +1,6 @@
 
 <img align="left" src="https://github.com/Frenchman98/Frenchman98/blob/main/Resources/githubbanner.png" width="70%" height="70%"/>
   
-<div align="right">
-  
 <img align="right" src="https://img.shields.io/badge/-philippe--cutillas-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippe-cutillas/"/>
 <img align="right" src="https://img.shields.io/badge/-philippecutillas-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/philippecutillas/"/>
 <img align="right" src="https://img.shields.io/badge/-cutillas@usc.edu-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:cutillas@usc.edu"/>
