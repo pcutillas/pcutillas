@@ -8,7 +8,7 @@
 
 I'm a master's student at USC studying Computer Science.
 
-I'm currently working on this ReadMe.
+This ReadMe is still a work-in-progress.
 
 [![Linkedin Badge](https://img.shields.io/badge/-philippe--cutillas-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippe-cutillas/)](https://www.linkedin.com/in/philippe-cutillas/)
 [![Instagram Badge](https://img.shields.io/badge/-philippecutillas-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/philippecutillas/)](https://www.instagram.com/philippecutillas/)
