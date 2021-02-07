@@ -11,17 +11,13 @@
 <img align="right" src="https://img.shields.io/badge/-PhilippeFlop-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/PhilippeFlop"/>
 
 
-<div>
-  
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=Frenchman98&count_private=true&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=30,330000,4d0000,330000&hide_title=true&include_all_commits=true"/>
-  
-  ### Hey!
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Frenchman98&count_private=true&show_icons=true&icon_color=ffffff&title_color=ffffff&text_color=ffffff&bg_color=30,330000,4d0000,330000&hide_title=true&include_all_commits=true"/>
 
-  I'm a master's student at USC studying Computer Science.
+Hey!
 
-  I'm currently working on this ReadMe.
+I'm a master's student at USC studying Computer Science.
+
+I'm currently working on this ReadMe.
 
 
-  ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frenchman98.frenchman98)
-  
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frenchman98.frenchman98)
