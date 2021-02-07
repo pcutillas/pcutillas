@@ -10,12 +10,12 @@ I'm a master's student at USC studying Computer Science.
 
 I'm currently working on this ReadMe.
 
-[![Steam Badge](https://img.shields.io/badge/-Space%20Duck-001191?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/lespaceduck/)](https://steamcommunity.com/id/lespaceduck/)
-[![Soundcloud Badge](https://img.shields.io/badge/-PHASΞ%20Music-ff7700?style=flat&logo=soundcloud&logoColor=white&link=https://soundcloud.com/phas3music)](https://soundcloud.com/phas3music)
-[![Twitter Badge](https://img.shields.io/badge/-PhilippeFlop-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/PhilippeFlop)](https://twitter.com/PhilippeFlop)
-
 [![Linkedin Badge](https://img.shields.io/badge/-philippe--cutillas-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippe-cutillas/)](https://www.linkedin.com/in/philippe-cutillas/)
 [![Instagram Badge](https://img.shields.io/badge/-philippecutillas-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/philippecutillas/)](https://www.instagram.com/philippecutillas/)
+[![Soundcloud Badge](https://img.shields.io/badge/-PHASΞ%20Music-ff7700?style=flat&logo=soundcloud&logoColor=white&link=https://soundcloud.com/phas3music)](https://soundcloud.com/phas3music)
+
+[![Steam Badge](https://img.shields.io/badge/-Space%20Duck-001191?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/lespaceduck/)](https://steamcommunity.com/id/lespaceduck/)
+[![Twitter Badge](https://img.shields.io/badge/-PhilippeFlop-00acee?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/PhilippeFlop)](https://twitter.com/PhilippeFlop)
 [![Gmail Badge](https://img.shields.io/badge/-cutillas@usc.edu-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:cutillas@usc.edu)](mailto:cutillas@usc.edu)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=frenchman98.frenchman98)
