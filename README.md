@@ -8,7 +8,9 @@
 
 I'm a master's student at USC studying Computer Science.
 
-This ReadMe is still a work-in-progress.
+I'm interested in all things computer science, but my greatest interests are in quantum computing, game development, and artificial general intelligence. I am currently developing a game set in a procedurally generated universe and have a few mobile app ideas I am working on, for which I use the [Orion Productions](https://github.com/Orion-Productions) alias.
+
+I strongly believe in open sourcing when possible, so I will be slowly releasing parts of the code I've made or ported. For now, I just have [a C# port of NASA's HEALPix algorithm](https://github.com/Orion-Productions/Healpix.NET) (used to study Cosmic Background Radiation, but I'm using it for efficient heirarchical spherical mesh generation). 
 
 [![Linkedin Badge](https://img.shields.io/badge/-philippe--cutillas-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippe-cutillas/)](https://www.linkedin.com/in/philippe-cutillas/)
 [![Instagram Badge](https://img.shields.io/badge/-philippecutillas-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/philippecutillas/)](https://www.instagram.com/philippecutillas/)
