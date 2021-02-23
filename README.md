@@ -14,6 +14,8 @@ I am currently developing a game set in a procedurally generated universe and ha
 
 I strongly believe in open sourcing when possible, so I will be slowly releasing parts of the code I've made or ported. For now, I just have [a C# port of NASA's HEALPix algorithm](https://github.com/Orion-Productions/Healpix.NET) (used to study Cosmic Background Radiation, but I'm using it for efficient heirarchical spherical mesh generation). 
 
+---
+
 [![Linkedin Badge](https://img.shields.io/badge/-philippe--cutillas-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippe-cutillas/)](https://www.linkedin.com/in/philippe-cutillas/)
 [![Instagram Badge](https://img.shields.io/badge/-philippecutillas-8a3ab9?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/philippecutillas/)](https://www.instagram.com/philippecutillas/)
 [![Soundcloud Badge](https://img.shields.io/badge/-PHASΞ%20Music-ff7700?style=flat&logo=soundcloud&logoColor=white&link=https://soundcloud.com/phas3music)](https://soundcloud.com/phas3music)
