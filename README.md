@@ -8,7 +8,7 @@ I'm a master's student at USC studying Computer Science.
 
 I'm interested in all things computer science, but my greatest interests are in quantum computing, game development, and artificial general intelligence.
 
-I strongly believe in open sourcing when possible, so I will be slowly releasing parts of the code I've made or ported. For now, I just have a [C# port of NASA's HEALPix algorithm](https://github.com/Voltaire-Technologies/Healpix-CSharp) (used to study Cosmic Background Radiation, but I'm using it for efficient heirarchical spherical mesh generation). 
+I strongly believe in open sourcing when possible, so I will be slowly releasing parts of the code I've made or ported. For now, I just have a [C# port of NASA's HEALPix algorithm](https://github.com/Voidstar-Technologies/Healpix-CSharp) (used to study Cosmic Background Radiation, but I'm using it for efficient heirarchical spherical mesh generation). 
 
 ---
 
