@@ -8,7 +8,7 @@ I'm a master's student at USC studying Computer Science.
 
 I'm interested in all things computer science, but my greatest interests are in quantum computing, game development, and artificial general intelligence.
 
-I strongly believe in open sourcing when possible, so I will be slowly releasing parts of the code I've made or ported. For now, I just have a few projects, which I've pinned below.
+I strongly believe in open sourcing when possible, so I will be slowly releasing parts of the code I've made or ported. For now I just have a few personal projects, which I've pinned below.
 
 ---
 
