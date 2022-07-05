@@ -4,11 +4,11 @@
 
 ### Hey!
 
-I'm a master's student at USC studying Computer Science.
+I try to code up any ideas I can think of, so feel free to look around at my past projects.
 
 I'm interested in all things computer science, but my greatest interests are in quantum computing, game development, and artificial general intelligence.
 
-I strongly believe in open sourcing when possible, so I will be slowly releasing parts of the code I've made or ported. For now I just have a few personal projects, which I've pinned below.
+Received a Master of Science degree from the University of Southern California in June 2022 and two Bachelor of Science degrees in Math and Electrical & Computer Engineering from the University of Arizona in May 2020.
 
 ---
 
