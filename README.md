@@ -8,7 +8,7 @@ I try to code up any ideas I can think of, so feel free to look around at my pas
 
 I'm interested in all things computer science, but my greatest interests are in quantum computing, game development, and artificial general intelligence.
 
-Received a Master of Science degree from the University of Southern California in June 2022 and two Bachelor of Science degrees in Math and Electrical & Computer Engineering from the University of Arizona in May 2020.
+Currently studying and researching for a Ph.D. in Computer Science at the University of Arizona, focusing on Quantum Computing and Visualization. Received a Master of Science degree from the University of Southern California in June 2022 and two Bachelor of Science degrees in Math and Electrical & Computer Engineering from the University of Arizona in May 2020.
 
 ---
 
