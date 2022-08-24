@@ -6,13 +6,13 @@
 
 I try to code up any ideas I can think of, so feel free to look around at my past projects.
 
-I'm interested in all things computer science, but my greatest interests are in quantum computing, game development, and artificial general intelligence.
+I'm interested in all things computer science, but my greatest interests are currently in quantum computing, game development, and artificial general intelligence.
 
 Currently studying and researching for a Ph.D. in Computer Science at the University of Arizona, focusing on Quantum Computing and Visualization. Received a Master of Science degree from the University of Southern California in June 2022 and two Bachelor of Science degrees in Math and Electrical & Computer Engineering from the University of Arizona in May 2020.
 
 ---
 
-[![Gmail Badge](https://img.shields.io/badge/-cutillas@usc.edu-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:cutillas@usc.edu)](mailto:cutillas@usc.edu)
+[![Gmail Badge](https://img.shields.io/badge/-pcutillas@arizona.edu-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:pcutillas@arizona.edu)](mailto:pcutillas@arizona.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-philippe--cutillas-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippe-cutillas/)](https://www.linkedin.com/in/philippe-cutillas/)
 [![Soundcloud Badge](https://img.shields.io/badge/-PHASΞ%20Music-ff7700?style=flat&logo=soundcloud&logoColor=white&link=https://soundcloud.com/phas3music)](https://soundcloud.com/phas3music)
 [![Steam Badge](https://img.shields.io/badge/-Space%20Duck-001191?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/lespaceduck/)](https://steamcommunity.com/id/lespaceduck/)
