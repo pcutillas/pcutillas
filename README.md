@@ -12,7 +12,7 @@ Received a Master of Science degree from the University of Southern California i
 
 ---
 
-[![Gmail Badge](https://img.shields.io/badge/-pcutillas@arizona.edu-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:cutillas@usc.edu)](mailto:cutillas@usc.edu)
+[![Gmail Badge](https://img.shields.io/badge/-cutillas@usc.edu-B23121?style=flat&logo=Gmail&logoColor=white&link=mailto:cutillas@usc.edu)](mailto:cutillas@usc.edu)
 [![Linkedin Badge](https://img.shields.io/badge/-philippe--cutillas-0e76a8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/philippe-cutillas/)](https://www.linkedin.com/in/philippe-cutillas/)
 [![Soundcloud Badge](https://img.shields.io/badge/-PHASΞ%20Music-ff7700?style=flat&logo=soundcloud&logoColor=white&link=https://soundcloud.com/phas3music)](https://soundcloud.com/phas3music)
 [![Steam Badge](https://img.shields.io/badge/-P%20H%20A%20S%203-001191?style=flat&logo=steam&logoColor=white&link=https://steamcommunity.com/id/phas3/)](https://steamcommunity.com/id/phas3/)
