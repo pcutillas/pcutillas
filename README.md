@@ -4,6 +4,6 @@
 
 ### Hey!
 
-I like to work on the intersection of cutting-edge technologies and human-centric/impactful solutions.
+I like to work on projects at the intersection of cutting-edge technologies and human-centric/impactful solutions.
 
 Check out my portfolio site, [philippe.cutillas.io](https://philippe.cutillas.io)
